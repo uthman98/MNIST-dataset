@@ -3,7 +3,7 @@
 A small Convolutional Neural Network (CNN), built with PyTorch, that recognises handwritten digits (0–9).
 It is trained on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset and then tested on real handwritten digits.
 
-![Predictions on the sample handwritten digits](predictions.png)
+
 
 ## Results
 
